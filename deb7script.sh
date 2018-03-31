@@ -183,6 +183,7 @@ service dropbear restart
 cd /usr/bin
 wget -O menu "https://raw.githubusercontent.com/wangzki03/VPSauto/master/menu.sh"
 wget -O usernew "https://raw.githubusercontent.com/wangzki03/VPSauto/master/usernew.sh"
+wget -O banner "https://raw.githubusercontent.com/wangzki03/VPSauto/master/servermsg.sh"
 wget -O delete "https://raw.githubusercontent.com/wangzki03/VPSauto/master/hapus.sh"
 wget -O check "https://raw.githubusercontent.com/wangzki03/VPSauto/master/user-login.sh"
 wget -O member "https://raw.githubusercontent.com/wangzki03/VPSauto/master/user-list.sh"
@@ -195,7 +196,7 @@ echo "0 0 * * * root /sbin/reboot" > /etc/cron.d/reboot
 
 chmod +x menu
 chmod +x usernew
-chmod +x trial
+chmod +x banner
 chmod +x delete
 chmod +x check
 chmod +x member
