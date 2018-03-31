@@ -3,7 +3,7 @@
 
 echo -e "* menu      : Displays a list of available commands"
 echo -e "* usernew   : Creating an SSH Account"
-echo -e "* trial     : Create a Trial Account"
+echo -e "* banner    : Create a Server Message"
 echo -e "* delete    : Clearing SSH and OpenVPN Account"
 echo -e "* check     : Check User Login"
 echo -e "* member    : Check Member SSH and OpenVPN"
