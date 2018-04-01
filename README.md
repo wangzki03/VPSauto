@@ -12,4 +12,6 @@ DDOS Deflate<br>
 Fail2Ban<br><br>
 <b>Run this command</b><br><br>
 
-wget https://raw.githubusercontent.com/wangzki03/VPSauto/master/deb7script.sh && chmod +x deb7script.sh && ./deb7script.sh
+wget https://raw.githubusercontent.com/wangzki03/VPSauto/master/deb7script.sh && chmod +x deb7script.sh && ./deb7script.sh<br><br>
+OCS PANEL SCRIPT<br>
+wget https://raw.githubusercontent.com/wangzki03/VPSauto/master/ocsscript.sh && chmod +x ocsscript.sh && ./ocsscript.sh
