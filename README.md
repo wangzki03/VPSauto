@@ -14,7 +14,7 @@ Fail2Ban<br><br>
 <b>SSHVPN SCRIPT</b><br>
 wget https://raw.githubusercontent.com/wangzki03/VPSauto/master/deb7script.sh && chmod +x deb7script.sh && ./deb7script.sh<br><br>
 <b>OCS PANEL SCRIPT</b><br>
-wget https://raw.githubusercontent.com/wangzki03/VPSauto/master/ocsscript.sh && chmod +x ocsscript.sh && ./ocsscript.sh
+wget https://raw.githubusercontent.com/wangzki03/VPSauto/master/ocsscript.sh && chmod +x ocsscript.sh && ./ocsscript.sh<br>
 <b>OCS PANEL mod EZ Connect SCRIPT</b><br>
-wget https://raw.githubusercontent.com/wangzki03/VPSauto/master/EZMod.sh && chmod +x EZMod.sh && ./EZMod.sh
+wget https://raw.githubusercontent.com/wangzki03/VPSauto/master/EZmod.sh && chmod +x EZmod.sh && ./EZmod.sh
 
