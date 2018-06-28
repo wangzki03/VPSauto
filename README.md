@@ -18,8 +18,8 @@ wget https://raw.githubusercontent.com/wangzki03/VPSauto/master/ocsscript.sh && 
 <b>OCS PANEL mod EZ Connect SCRIPT</b><br>
 wget https://raw.githubusercontent.com/wangzki03/VPSauto/master/EZmod.sh && chmod +x EZmod.sh && ./EZmod.sh<br><br>
 <b>If you get error in ocs install this to the serverthat have error</b><br>
-apt-get install libxml-parser-perl<br>
-<b>Cebtos 7 Softether Script</b><br>
+apt-get install libxml-parser-perl<br><br>
+<b>Ubuntu 16.04 x64 or Debian 8.10 x64Softether Script</b><br>
 wget https://raw.githubusercontent.com/wangzki03/VPSauto/master/SEsetup.sh && chmod +x SEsetup.sh && ./SEsetup.sh<br><br>
 
 
