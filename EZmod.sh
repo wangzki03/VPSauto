@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 if [ $USER != 'root' ]; then
